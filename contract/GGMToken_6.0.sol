@@ -1,11 +1,11 @@
 pragma solidity 0.6.6;
 
 // ----------------------------------------------------------------------------
-// 'GGMToken' token contract
+// 'SimbaToken' token contract
 //
-// Deployed to : 0xFEB02D9383C49A8373F88e82EbCecB553c1837bf
-// Symbol      : GGM
-// Name        : GGMToken
+// Deployed to 0x773211A1e9d0c2f8B17210C76d077bF4e0F2655E
+// Symbol      : 
+// Name        : SimbaToken
 // Total supply: 100000000
 // Decimals    : 18
 //
